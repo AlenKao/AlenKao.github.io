@@ -40,11 +40,11 @@ CPE 解題筆記
 [00490 - Rotating Sentences]:/2022/08/03/00490.html
 [00948 - Fibonaccimal Base]:/2022/08/03/00948.html
 [10008 - What's Cryptanalysis?]:/2022/08/03/10008.html
-[10019 - Funny Encryption Method]:star1/10019.md
-[10035 - Primary Arithmetic]:star1/10035.md
-[10038 - Jolly Jumpers]:star1/10038.md
-[10041 - Vito's Family]:star1/10041.md
-[10050 - Hartals]:star1/10050.md
+[10019 - Funny Encryption Method]:/2022/08/03/10019.html
+[10035 - Primary Arithmetic]:/2022/08/03/10035.html
+[10038 - Jolly Jumpers]:/2022/08/03/10038.html
+[10041 - Vito's Family]:/2022/08/03/10041.html
+[10050 - Hartals]:/2022/08/03/10050.html
 [10055 - Hashmat the Brave Warrior]:star1/10055.md
 [10056 - What is the Probability?]:star1/10056.md
 [10062 - Tell me the frequencies!]:star1/10062.md
