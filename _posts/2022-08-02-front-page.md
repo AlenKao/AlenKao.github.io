@@ -34,12 +34,12 @@ CPE 解題筆記
 - ## Star2   
 
 [00100 - The 3n+1 Problem]:/2022/08/02/00100.html
-[00118 - Mutant Flatworld Explorers]:star1/00118.md
-[00272 - TEX Quotes]:star1/00272.md
-[00299 - Train Swapping]:star1/00299.md
-[00490 - Rotating Sentences]:star1/00490.md
-[00948 - Fibonaccimal Base]:star1/00948.md
-[10008 - What's Cryptanalysis?]:star1/10008.md
+[00118 - Mutant Flatworld Explorers]:/2022/08/03/00118.html
+[00272 - TEX Quotes]:/2022/08/03/00272.html
+[00299 - Train Swapping]:/2022/08/03/00299.html
+[00490 - Rotating Sentences]:/2022/08/03/00490.html
+[00948 - Fibonaccimal Base]:/2022/08/03/00948.html
+[10008 - What's Cryptanalysis?]:/2022/08/03/10008.html
 [10019 - Funny Encryption Method]:star1/10019.md
 [10035 - Primary Arithmetic]:star1/10035.md
 [10038 - Jolly Jumpers]:star1/10038.md
