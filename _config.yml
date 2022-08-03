@@ -85,7 +85,7 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
+mathjax: true # false (default), true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
@@ -226,5 +226,3 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-midnight
-
-mathjax: true
