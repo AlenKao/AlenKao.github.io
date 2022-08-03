@@ -1,10 +1,10 @@
 ---
 title: 泡沫排序法
-tags: algorithm
-show_subscribe: false
+tags: algorithm sort
 ---
 Bubble sort
 <!--more-->
+
 ## 時間複雜度
 ~~~
 泡沫排序對n個項目需要O(n^2)的比較次數，且可以原地排序。   
