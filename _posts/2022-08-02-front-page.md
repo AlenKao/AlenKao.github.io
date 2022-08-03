@@ -20,6 +20,7 @@ CPE 解題筆記
     - [10050 - Hartals]
     - [10055 - Hashmat the Brave Warrior]
     - [10056 - What is the Probability?] *
+    - [10057 - A mid-summer night's dream]
     - [10062 - Tell me the frequencies!]
     - [10071 - Back to High School Physics]
     - [10093 - An Easy Problem!]
@@ -45,13 +46,14 @@ CPE 解題筆記
 [10038 - Jolly Jumpers]:/2022/08/03/10038.html
 [10041 - Vito's Family]:/2022/08/03/10041.html
 [10050 - Hartals]:/2022/08/03/10050.html
-[10055 - Hashmat the Brave Warrior]:star1/10055.md
-[10056 - What is the Probability?]:star1/10056.md
-[10062 - Tell me the frequencies!]:star1/10062.md
-[10071 - Back to High School Physics]:star1/10071.md
-[10093 - An Easy Problem!]:star1/10093.md
-[10221 - Satellites]:star1/10221.md
-[10222 - Decode the Mad man]:star1/10222.md
-[10226 – Hardwood species]:star1/10226.md
-[10235 – Simply Emirp]:star1/10235.md
+[10055 - Hashmat the Brave Warrior]:/2022/08/03/10055.html
+[10056 - What is the Probability?]:/2022/08/03/10056.html
+[10057 - A mid-summer night's dream]:/2022/08/03/10057.html
+[10062 - Tell me the frequencies!]:/2022/08/03/10062.html
+[10071 - Back to High School Physics]:/2022/08/03/10071.html
+[10093 - An Easy Problem!]:/2022/08/03/10093.html
+[10221 - Satellites]:/2022/08/03/10221.html
+[10222 - Decode the Mad man]:/2022/08/03/10222.html
+[10226 – Hardwood species]:/2022/08/03/10226.html
+[10235 – Simply Emirp]:/2022/08/03/10235.html
 [00105 - The Skyline Problem]:/2022/08/02/00105.html
