@@ -1,7 +1,7 @@
 ---
 title: 泡沫排序法
 tags: algorithm
-output: false
+show_subscribe: false
 ---
 Bubble sort
 <!--more-->
